@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter03;
 /**
  * Write a method called printSquare that takes in two integer parameters, a min and a max, 
  * and prints the numbers in the range from min to max inclusive in a square pattern. 

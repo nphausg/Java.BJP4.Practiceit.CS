@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter03;
 /**
  * Write a method called printPowersOfN that accepts a base and an exponent as arguments and prints each power of the base from base0 (1) up to that maximum power, inclusive. For example, consider the following calls:
  * printPowersOfN(4, 3);
