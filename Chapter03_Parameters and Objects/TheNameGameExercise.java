@@ -24,6 +24,7 @@ public class TheNameGameExercise {
         inputName(first);
         System.out.println("");
         inputName(last);
+        sc.close();
     }
 
     public static void inputName (String name) {
