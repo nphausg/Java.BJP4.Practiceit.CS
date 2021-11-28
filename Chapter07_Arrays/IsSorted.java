@@ -1,4 +1,4 @@
-package Chapter07;
+package Chapter07_Arrays;
 
 /**
  * Write a static method named isSorted that accepts an array of doubles as a parameter 

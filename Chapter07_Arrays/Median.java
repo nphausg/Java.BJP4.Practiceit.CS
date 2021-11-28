@@ -1,4 +1,4 @@
-package Chapter07;
+package Chapter07_Arrays;
 
 /**
  * Write a method called median that accepts an array of integers as its argument and returns the median of the numbers in the array.
