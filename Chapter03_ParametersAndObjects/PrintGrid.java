@@ -1,4 +1,4 @@
-package Chapter03;
+package Chapter03_ParametersAndObjects;
 
 /**
  * Write a method named printGrid that accepts two integer parameters rows and cols.

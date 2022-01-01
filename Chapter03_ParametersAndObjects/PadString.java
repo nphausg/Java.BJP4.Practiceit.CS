@@ -1,4 +1,4 @@
-package Chapter03;
+package Chapter03_ParametersAndObjects;
 /**
  * Write a method padString that accepts two parameters: a String 
  * and an integer representing a length. 

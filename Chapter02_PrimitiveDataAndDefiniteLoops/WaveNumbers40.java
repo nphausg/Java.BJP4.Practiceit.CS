@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter02_PrimitiveDataAndDefiniteLoops;
 
 /**
  * Write for loops to produce the following output, with each line 40 characters wide:

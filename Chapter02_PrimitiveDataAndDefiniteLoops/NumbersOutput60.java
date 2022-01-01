@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter02_PrimitiveDataAndDefiniteLoops;
 
 /**
  * It's common to print a rotating, increasing list of single-digit numbers at the start of a 

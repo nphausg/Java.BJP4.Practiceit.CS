@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter02_PrimitiveDataAndDefiniteLoops;
 
 /** Trace the evaluation of the following expressions, and give their resulting values. Make sure to give a value of 
 the appropriate type (such as including a .0 at the end of a double or quotes around a String).

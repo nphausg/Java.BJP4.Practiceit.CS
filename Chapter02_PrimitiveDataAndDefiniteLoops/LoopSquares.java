@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter02_PrimitiveDataAndDefiniteLoops;
 /**
  * Write a for loop that produces the following output:
  * 1 4 9 16 25 36 49 64 81 100 
