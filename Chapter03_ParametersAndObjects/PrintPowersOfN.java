@@ -1,3 +1,8 @@
+/*
+ * Created by nphau on 06/01/2022, 09:50
+ * Copyright (c) 2022. All rights reserved.
+ * Last modified 06/01/2022, 09:50
+ */
 package Chapter03_ParametersAndObjects;
 /**
  * Write a method called printPowersOfN that accepts a base and an exponent as arguments and prints each power of the base from base0 (1) up to that maximum power, inclusive. For example, consider the following calls:

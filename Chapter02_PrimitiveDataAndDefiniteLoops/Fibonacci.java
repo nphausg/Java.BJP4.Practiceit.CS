@@ -1,3 +1,8 @@
+/*
+ * Created by nphau on 06/01/2022, 09:50
+ * Copyright (c) 2022. All rights reserved.
+ * Last modified 06/01/2022, 09:50
+ */
 package Chapter02_PrimitiveDataAndDefiniteLoops;
 
 /**
@@ -40,5 +45,26 @@ public class Fibonacci {
             a = b;
             b = i;
         }
+    }
+
+    // https://practiceit.cs.washington.edu/problem/view/bjp4/chapter2/e3-fibonacci
+    public static int fibo12ThSolution3(int n){
+        // Declare an array to store Fibonacci numbers
+        int f[] = new int [n+2];
+        int i;
+        f[0] = 0;
+        f[1] = 1;
+        for (i = 2; i <=n; i ++ ){
+            // Add the previous 2 numbers in the series and store it
+            f[i] = f[i-1] + f[i-2];
+        }
+        return f[n];
+    }
+
+    // https://practiceit.cs.washington.edu/problem/view/bjp4/chapter2/e3-fibonacci
+    public static int fibonacciRecursion(int n){
+        if(n <= 1)
+            return n;
+        return fibonacciRecursion(n - 1) + fibonacciRecursion(n -  2);
     }
 }

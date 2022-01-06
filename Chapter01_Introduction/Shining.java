@@ -1,3 +1,8 @@
+/*
+ * Created by nphau on 06/01/2022, 09:50
+ * Copyright (c) 2022. All rights reserved.
+ * Last modified 06/01/2022, 09:50
+ */
 package Chapter01_Introduction;
 /**
  * Write a program in a class named Shining that prints the following line of output 1000 times:
