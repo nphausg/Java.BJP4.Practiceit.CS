@@ -24,4 +24,10 @@ public class PadString {
         }
         return pad + str;
     }
+    public static String padString2(String str, int length){
+        while(str.length() < length){
+            str = " "  + str;
+        }
+        return str;
+    }
 }
